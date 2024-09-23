@@ -120,7 +120,7 @@ Tasks involved:
 - **EDA Notebook**: The Jupyter notebook used for the analysis.
 - **Cleaned Dataset**: The final dataset, post-cleaning, ready for modeling.
 
-## 💡 Conclusion
+## 💡
 
 EDA is a crucial step in any data science project. By thoroughly exploring the dataset, we were able to uncover insights, address data quality issues, and create features that will feed into future models. This analysis set a strong foundation for the next phase of the project.
 
